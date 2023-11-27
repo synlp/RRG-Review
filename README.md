@@ -9,6 +9,21 @@ In `reference.bib`, we summarize the `bibtex` references of existing RRG papers,
 
 If you have any suggestions about papers, code implementations, and other resources, please feel free to [pull requests](https://github.com/synlp/RRG-Review/pulls).
 
+## Citation
+
+If your research is related to our work, please cite the following paper:
+
+```markdown
+@misc{liu2023systematic,
+      title={A Systematic Review of Deep Learning-based Research on Radiology Report Generation}, 
+      author={Chang Liu and Yuanhe Tian and Yan Song},
+      year={2023},
+      eprint={2311.14199},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 <details><summary>Table of Contents</summary><p>
 
 - [Papers](#papers)
