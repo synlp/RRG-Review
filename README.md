@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">A Systematic Review of Deep Learning-based Research on Radiology Report Generation</h1>
 
-The official github repository of the survey paper titled "[A Systematic Review of Deep Learning-based Research on Radiology Report Generation](https://arxiv.org/abs/2311.14199)".
+The official GitHub repository of the survey paper titled "[A Systematic Review of Deep Learning-based Research on Radiology Report Generation](https://arxiv.org/abs/2311.14199)".
 
 We maintain this repository to summarize papers and resources related to the radiology report generation (RRG) task. 
 
