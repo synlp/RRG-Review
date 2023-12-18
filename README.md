@@ -94,6 +94,8 @@ If your research is related to our work, please cite the following paper:
 
 [ICCV 2021] Visual-Textual Attentive Semantic Consistency for Medical Report Generation [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.pdf)
 
+[MICCAI 2021] RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting [[pdf]](https://miccai2021.org/openaccess/paperlinks/2021/09/01/390-Paper1026.html)
+
 [NeurIPS 2021] Auto-encoding Knowledge Graph for Unsupervised Medical Report Generation [[pdf]](https://proceedings.neurips.cc/paper/2021/file/876e1c59023b1a0e95808168e1a8ff89-Paper.pdf)
 
 
