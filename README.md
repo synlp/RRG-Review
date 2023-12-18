@@ -90,6 +90,9 @@ If your research is related to our work, please cite the following paper:
 
 [ICCV 2021] Visual-Textual Attentive Semantic Consistency for Medical Report Generation [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.pdf)
 
+[NeurIPS 2021] Auto-encoding Knowledge Graph for Unsupervised Medical Report Generation [[pdf]](https://proceedings.neurips.cc/paper/2021/file/876e1c59023b1a0e95808168e1a8ff89-Paper.pdf)
+
+
 ### 2020
 
 [EMNLP 2020] Generating Radiology Reports via Memory-driven Transformer [pdf](https://aclanthology.org/2020.emnlp-main.112/)
