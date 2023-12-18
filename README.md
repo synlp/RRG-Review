@@ -63,6 +63,10 @@ If your research is related to our work, please cite the following paper:
 
 ### 2022
 
+[MICCAI 2022] RepsNet: Combining Vision with Language for Automated Medical Reports [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_68)
+
+[MICCAI 2022] A Self-guided Framework for Radiology Report Generation [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_56)
+
 [AACL 2022] Multimodal Generation of Radiology Reports using Knowledge-Grounded Extraction of Entities and Relations [pdf](https://aclanthology.org/2022.aacl-main.47/)
 
 [ACL 2022] Reinforced Cross-modal Alignment for Radiology Report Generation [pdf](https://aclanthology.org/2022.findings-acl.38/)
@@ -92,6 +96,8 @@ If your research is related to our work, please cite the following paper:
 
 [MICCAI 2021] RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting [[pdf]](https://miccai2021.org/openaccess/paperlinks/2021/09/01/390-Paper1026.html)
 
+[NeurIPS 2021] Auto-encoding Knowledge Graph for Unsupervised Medical Report Generation [[pdf]](https://proceedings.neurips.cc/paper/2021/file/876e1c59023b1a0e95808168e1a8ff89-Paper.pdf)
+
 
 ### 2020
 
@@ -107,6 +113,8 @@ If your research is related to our work, please cite the following paper:
 
 [AAAI 2019] Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4637/4515)
 
+[MICCAI 2019] Automatic Radiology Report Generation based on Multi-view Image Fusion and Medical Concept Enrichment [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_80)
+
 ### 2018
 
 [ACL 2018] On the Automatic Generation of Medical Imaging Reports [pdf](https://aclanthology.org/P18-1240/)
@@ -121,3 +129,4 @@ If your research is related to our work, please cite the following paper:
 [Scientific Data] MIMIC-CXR, A De-identified Publicly Available Database of Chest Radiographs with Free-text Reports [pdf](https://www.nature.com/articles/s41597-019-0322-0) [dataset](https://physionet.org/content/mimic-cxr/1.0.0/)
 
 [arXiv] MIMIC-CXR-JPG, A Large Publicly Available Database of Labeled Chest Radiographs [pdf](https://arxiv.org/abs/1901.07042) [dataset](https://physionet.org/content/mimic-cxr/2.0.0/)
+
