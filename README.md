@@ -65,6 +65,8 @@ If your research is related to our work, please cite the following paper:
 
 [MICCAI 2022] RepsNet: Combining Vision with Language for Automated Medical Reports [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_68)
 
+[MICCAI 2022] A Self-guided Framework for Radiology Report Generation [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_56)
+
 [AACL 2022] Multimodal Generation of Radiology Reports using Knowledge-Grounded Extraction of Entities and Relations [pdf](https://aclanthology.org/2022.aacl-main.47/)
 
 [ACL 2022] Reinforced Cross-modal Alignment for Radiology Report Generation [pdf](https://aclanthology.org/2022.findings-acl.38/)
