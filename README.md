@@ -104,6 +104,8 @@ If your research is related to our work, please cite the following paper:
 
 [AAAI 2019] Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4637/4515)
 
+[MICCAI 2019] Automatic Radiology Report Generation based on Multi-view Image Fusion and Medical Concept Enrichment [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_80)
+
 ### 2018
 
 [ACL 2018] On the Automatic Generation of Medical Imaging Reports [pdf](https://aclanthology.org/P18-1240/)
@@ -116,3 +118,4 @@ If your research is related to our work, please cite the following paper:
 [Scientific Data] MIMIC-CXR, A De-identified Publicly Available Database of Chest Radiographs with Free-text Reports [pdf](https://www.nature.com/articles/s41597-019-0322-0) [dataset](https://physionet.org/content/mimic-cxr/1.0.0/)
 
 [arXiv] MIMIC-CXR-JPG, A Large Publicly Available Database of Labeled Chest Radiographs [pdf](https://arxiv.org/abs/1901.07042) [dataset](https://physionet.org/content/mimic-cxr/2.0.0/)
+
