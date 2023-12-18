@@ -71,6 +71,10 @@ If your research is related to our work, please cite the following paper:
 
 [EMNLP 2022] Factual Accuracy is not Enough: Planning Consistent Description Order for Radiology Report Generation [[pdf]](https://aclanthology.org/2022.emnlp-main.480/)
 
+[MICCAI 2022] RepsNet: Combining Vision with Language for Automated Medical Reports [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_68)
+
+[MICCAI 2022] A Self-guided Framework for Radiology Report Generation [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_56)
+
 [TMI 2022] Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach [[pdf]](https://ieeexplore.ieee.org/document/9768661)
 
 
@@ -90,22 +94,26 @@ If your research is related to our work, please cite the following paper:
 
 [ICCV 2021] Visual-Textual Attentive Semantic Consistency for Medical Report Generation [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.pdf)
 
+[MICCAI 2021] RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting [[pdf]](https://miccai2021.org/openaccess/paperlinks/2021/09/01/390-Paper1026.html)
+
 [NeurIPS 2021] Auto-encoding Knowledge Graph for Unsupervised Medical Report Generation [[pdf]](https://proceedings.neurips.cc/paper/2021/file/876e1c59023b1a0e95808168e1a8ff89-Paper.pdf)
 
 
 ### 2020
 
+[AAAI 2020] When Radiology Report Generation Meets Knowledge Graph [[pdf]](https://arxiv.org/abs/2002.08277)
+
 [EMNLP 2020] Generating Radiology Reports via Memory-driven Transformer [[pdf]](https://aclanthology.org/2020.emnlp-main.112/)
 
 [EMNLP 2020] Reinforcement Learning with Imbalanced Dataset for Data-to-Text Medical Report Generation [[pdf]](https://aclanthology.org/2020.findings-emnlp.202/)
 
-[AAAI 2020] When Radiology Report Generation Meets Knowledge Graph [【](https://arxiv.org/abs/2002.08277)
+
 
 ### 2019
 
-[ACL 2019] Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-Ray Reports](https://aclanthology.org/P19-1657/)
+[AAAI 2019] Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/4637/4515)
 
-[AAAI 2019] Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation [【](https://ojs.aaai.org/index.php/AAAI/article/view/4637/4515)
+[ACL 2019] Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-Ray Reports [[pdf]](https://aclanthology.org/P19-1657/)
 
 [MICCAI 2019] Automatic Radiology Report Generation based on Multi-view Image Fusion and Medical Concept Enrichment [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_80)
 
