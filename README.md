@@ -108,6 +108,8 @@ If your research is related to our work, please cite the following paper:
 
 [ACL 2018] On the Automatic Generation of Medical Imaging Reports [pdf](https://aclanthology.org/P18-1240/)
 
+[MICCAI 2018] Multimodal Recurrent Model with Attention for Automated Radiology Report Generation [pdf](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_52)
+
 
 ## Datasets
 
