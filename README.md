@@ -74,6 +74,8 @@ If your research is related to our work, please cite the following paper:
 
 **[arXiv 2023] Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data** [[paper]](https://arxiv.org/abs/2308.02463) [[project]](https://chaoyi-wu.github.io/RadFM/) [[code]](https://github.com/chaoyi-wu/RadFM?tab=readme-ov-file)
 
+[arXiv 2023] MAIRA-1: A Specialised Large Multimodal Model for Radiology Report Generation [[paper]](https://arxiv.org/abs/2311.13668) [[project]](https://www.microsoft.com/en-us/research/project/project-maira/)
+
 ### 2022
 
 [AACL 2022] Multimodal Generation of Radiology Reports using Knowledge-Grounded Extraction of Entities and Relations [[paper]](https://aclanthology.org/2022.aacl-main.47/)
