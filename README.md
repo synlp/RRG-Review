@@ -56,6 +56,8 @@ If your research is related to our work, please cite the following paper:
 
 [EACL 2023] KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation [[paper]](https://aclanthology.org/2023.eacl-main.246/)
 
+**[EMNLP 2023] Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting** [[paper]](https://arxiv.org/pdf/2310.17811v2.pdf)
+
 [ICASSP 2023] MvCo-DoT: Multi-View Contrastive Domain Transfer Network for Medical Report Generation [[paper]](https://arxiv.org/pdf/2304.07465.pdf)
 
 [TMM 2023] Joint Embedding of Deep Visual and Semantic Features for Medical Image Report Generation [[paper]](https://ieeexplore.ieee.org/document/9606584)
@@ -74,7 +76,7 @@ If your research is related to our work, please cite the following paper:
 
 **[arXiv 2023] Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data** [[paper]](https://arxiv.org/abs/2308.02463) [[project]](https://chaoyi-wu.github.io/RadFM/) [[code]](https://github.com/chaoyi-wu/RadFM?tab=readme-ov-file)
 
-[arXiv 2023] MAIRA-1: A Specialised Large Multimodal Model for Radiology Report Generation [[paper]](https://arxiv.org/abs/2311.13668) [[project]](https://www.microsoft.com/en-us/research/project/project-maira/)
+**[arXiv 2023] MAIRA-1: A Specialised Large Multimodal Model for Radiology Report Generation** [[paper]](https://arxiv.org/abs/2311.13668) [[project]](https://www.microsoft.com/en-us/research/project/project-maira/)
 
 ### 2022
 
