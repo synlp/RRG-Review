@@ -26,7 +26,7 @@ If your research is related to our work, please cite the following paper:
 }
 ```
 
-<details><summary>Table of Contents</summary><p>
+
 
 - [Citation](#citation)
 - [Papers](#papers)
@@ -38,7 +38,6 @@ If your research is related to our work, please cite the following paper:
   - [2018](#2018)
 - [Datasets](#datasets)
 - [Metrics](#metrics)
-</p></details><p></p>
 
 ## Papers
 ### 2023
