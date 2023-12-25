@@ -26,9 +26,8 @@ If your research is related to our work, please cite the following paper:
 }
 ```
 
+## Table of Contents
 
-
-- [Citation](#citation)
 - [Papers](#papers)
   - [2023](#2023)
   - [2022](#2022)
