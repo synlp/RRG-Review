@@ -156,9 +156,9 @@ If your research is related to our work, please cite the following paper:
 
 ### 2018
 
-[ACL 2018] On the Automatic Generation of Medical Imaging Reports [[paper]](https://aclanthology.org/P18-1240/)
+[ACL 2018] On the Automatic Generation of Medical Imaging Reports [[paper]](https://aclanthology.org/P18-1240/) [[code]](https://github.com/ZexinYan/Medical-Report-Generation)
 
-[MICCAI 2018] Multimodal Recurrent Model with Attention for Automated Radiology Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_52)
+[MICCAI 2018] Multimodal Recurrent Model with Attention for Automated Radiology Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_52) [[code]](https://github.com/tengfeixue-victor/Medical-Report-Generation)
 
 
 ## Datasets
@@ -170,3 +170,6 @@ If your research is related to our work, please cite the following paper:
 [arXiv] MIMIC-CXR-JPG, A Large Publicly Available Database of Labeled Chest Radiographs [[paper]](https://arxiv.org/abs/1901.07042) [[dataset]](https://physionet.org/content/mimic-cxr/2.0.0/)
 
 [NeurIPS 2021 Datasets & Benchmark] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[paper]](https://openreview.net/pdf?id=FgYTwJbjbf) [[dataset]](https://physionet.org/content/ffa-ir-medical-report/1.0.0/) [[GitHub]](https://github.com/mlii0117/FFA-IR)
+
+## Metrics
+[AAAI 2019] MIRQI [[paper]](https://arxiv.org/abs/2002.08277) [[code]](https://github.com/xiaosongwang/MIRQI)
