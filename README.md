@@ -177,5 +177,7 @@ If your research is related to our work, please cite the following paper:
 
 ## Toolkits
 [AAAI 2019] CheXpert [[paper]](https://arxiv.org/pdf/1901.07031.pdf) [[code]](https://github.com/stanfordmlgroup/chexpert-labeler)
+
 [AAAI 2019] NegBio [[paper]](https://arxiv.org/abs/1712.05898.pdf) [[code]](https://github.com/ncbi-nlp/NegBio)
+
 [AAAI 2019] MIRQI [[paper]](https://arxiv.org/abs/2002.08277) [[code]](https://github.com/xiaosongwang/MIRQI)
