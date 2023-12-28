@@ -101,7 +101,7 @@ If your research is related to our work, please cite the following paper:
 
 [MIA 2022] Knowledge Matters: Chest Radiology Report Generation with General and Specific Knowledge [[paper]](https://pdf.sciencedirectassets.com/272154/1-s2.0-S1361841522X00042/1-s2.0-S1361841522001578/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJGMEQCIFPdvXsyFRfWxMj7jhqb0f970F6Z4ob8tvvHZZFgZlFqAiBy5IiEQ4PlAir2yIwNA7JcWzUNL2TRxtu3sYh7y%2FoXDSq8BQjN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMbAYHoe7gNJJndbczKpAFMjLnJ6hkHKMbEX6fFEdWNQpY0sCwalqj8EXda%2B5sS86uDeKRlkUJeQWbUO8t1ufSC6aWd1V7SNHLUqgnLDqw7QGKPf07Xu5LSJtSOlTic1tMO%2B5HBQpunTtD3eeJFw%2FteLbzL4ZhClTjouaedBsNC8Qh0bDSjVVE5sdFCm%2Fifue7Ppobq2PCSU3XYSRpxxDloSQY4c0xZxbPlPxjB4rADrvDPefwPmT1MrlA74RYTRLmyE83f%2Bmqpah6Wj%2FH7%2FDBE4Qppv6C4ZNrZ9j1fs2JA%2Ful%2FMOd%2FJrffnIWpJDCFm6ZHTH7h%2Fef%2FuN5SMAUEjGNkP7d7UI3Q7CNpK8nlywWwLfEoK%2FDyt0%2F1gpSLfbl7%2FOisdRA%2BDRzemFQQnxBGAlXWyyB0F%2BMx6Jnrnm%2FaJhzw%2FlGCRrewLbDX6%2Fd8hHdEq1tnZaerP1O0N6JTH8A%2BhsB%2FXqETFmm3fal%2B2dpOyCCBvBQ%2F6H%2FtHqTRMFDJHclogE4YV3c3oUSww%2BzTBAAvxheuPC98ToQEYeZzk9tzhwIeJlSYNuQRmOOGpk9lL%2BnrwrNvRywI0g5Y0PIGrqxrtqnixt%2FWjCy5eq%2Bfr7gJIyufQBiKwxXOJHdAmiNRdueIidmU6HHCEAJdvKHBtKu95XQicIZW0s5tzpaH7JZ9TrePd3mkQfCXnnnOyifqKOHJcoCJwQGyX6OYty%2B1iDflrdvPHFKG9dSSVvLDEjtbxQ2pUZwPmk0rT777w7jtQcLofkdhgWaPy0XV3cZ3i3wF%2FYwazU0yUnlS%2F43Vi4m08Ii4J5WW1QVZ2V0f1Zmw6LwEOSVbIOW3t9mIP2rbLK7WAp16GrnHBw2Ibr2fHQ%2BMJWCeBHpvrw7vwqenKc2Dwrc%2BF4wx5yErAY6sgFrZ1xJ%2Ftc6v0oW48%2BDzNsaXNopwTfD5Mv8IXC3bXt%2FgWEarHdvGryQY1BH0ewnE5Nzea%2FyAGjO3docq3of%2B5581Dmv6oZ%2FePgzIPK0QQdp1HBYWhJRe0HG8hJ1LPgssqy3v1TH4YZx5zKF4lddQ4PO33vE6c%2BrxKHLsf4ZdPT7m2aramQkxiCEkCLJmroJtS3KRi1qVLtZwifqyQ06hZ2a5f7wWh79h%2BbEMjya1gjoD%2B2G&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231219T042855Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVICNITU7%2F20231219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b50b28cc347b877a7dc441b3225995171c0d6a9a3f9f068b131abd437436c586&hash=7744bcd1a019821bc513a15cd2cb8cf13676616438298545a5c9398d0235fb03&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1361841522001578&tid=spdf-ec11110a-c807-441f-87d5-c1978b17d4fa&sid=533db39126ac0241317848c5289133cfb43bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=120d5b5c540c0557060406&rr=837ce6cdad98078f&cc=hk) [[code]](https://github.com/LX-doctorAI1/GSKET)
 
-[MICCAI 2022] RepsNet: Combining Vision with Language for Automated Medical Reports [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_68) [[code]]()
+[MICCAI 2022] RepsNet: Combining Vision with Language for Automated Medical Reports [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_68)
 
 [MICCAI 2022] A Self-guided Framework for Radiology Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_56) [[code]](https://github.com/LijunRio/A-Self-Guided-Framework)
 
@@ -114,19 +114,21 @@ If your research is related to our work, please cite the following paper:
 
 [COLING 2021] JPG - Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation [[paper]](https://aclanthology.org/2022.coling-1.523/)
 
-[EMNLP 2021] Automated Generation of Accurate & Fluent Medical X-ray Reports [[paper]](https://aclanthology.org/2021.emnlp-main.288/)
-
-[EMNLP 2021] Progressive Transformer-Based Generation of Radiology Reports [[paper]](https://aclanthology.org/2021.findings-emnlp.241/)
-
-[EMNLP 2021] Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation [[paper]](https://aclanthology.org/2021.findings-emnlp.336.pdf)
-
 [CVPR 2021] Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf)
 
 [CVPR 2021] A Self-boosting Framework for Automated Radiographic Report Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf)
 
+[EMNLP 2021] Automated Generation of Accurate & Fluent Medical X-ray Reports [[paper]](https://aclanthology.org/2021.emnlp-main.288/) [[code]](https://github.com/ginobilinie/xray_report_generation)
+
+[EMNLP 2021] Progressive Transformer-Based Generation of Radiology Reports [[paper]](https://aclanthology.org/2021.findings-emnlp.241/) [[code]](https://github.com/uzh-dqbm-cmi/ARGON)
+
+[EMNLP 2021] Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation [[paper]](https://aclanthology.org/2021.findings-emnlp.336.pdf) [[code]](https://github.com/zzxslp/WCL)
+
 [ICCV 2021] Visual-Textual Attentive Semantic Consistency for Medical Report Generation [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.pdf)
 
-[MICCAI 2021] RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting [[paper]](https://miccai2021.org/openaccess/paperlinks/2021/09/01/390-Paper1026.html)
+[NAACL 2021] Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation [[paper]](https://aclanthology.org/2021.naacl-main.416.pdf) [[code]](https://github.com/ysmiura/ifcc)
+
+[MICCAI 2021] RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting [[paper]](https://miccai2021.org/openaccess/paperlinks/2021/09/01/390-Paper1026.html) [[code]](https://github.com/farrell236/RATCHET)
 
 [MICCAI 2021] Trust It or Not: Confidence-Guided Automatic Radiology Report Generation [[paper]](https://arxiv.org/pdf/2106.10887.pdf)
 
