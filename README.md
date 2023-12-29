@@ -180,6 +180,8 @@ If your research is related to our work, please cite the following paper:
 
 [MICCAI 2018] Multimodal Recurrent Model with Attention for Automated Radiology Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_52) [[code]](https://github.com/tengfeixue-victor/Medical-Report-Generation)
 
+[NeurIPS 2018] Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation [[paper]](https://proceedings.neurips.cc/paper_files/paper/2018/file/e07413354875be01a996dc560274708e-Paper.pdf) 
+
 
 ## Datasets
 
