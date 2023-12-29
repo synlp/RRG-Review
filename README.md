@@ -51,7 +51,7 @@ If your research is related to our work, please cite the following paper:
 
 ## Papers
 ### 2024
-[AAAI] Bootstrapping Large Language Models for Radiology Report Generation [paper] [[code]](https://github.com/synlp/R2-LLM)
+**[AAAI 2024] Bootstrapping Large Language Models for Radiology Report Generation** [paper] [[code]](https://github.com/synlp/R2-LLM)
 
 
 ### 2023
