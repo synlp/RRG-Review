@@ -191,6 +191,8 @@ If your research is related to our work, please cite the following paper:
 
 [NeurIPS 2021 Datasets & Benchmark] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[paper]](https://openreview.net/pdf?id=FgYTwJbjbf) [[dataset]](https://physionet.org/content/ffa-ir-medical-report/1.0.0/) [[GitHub]](https://github.com/mlii0117/FFA-IR)
 
+[NeurIPS 2021 Datasets & Benchmark] RadGraph: Extracting Clinical Entities and Relations from Radiology Reports [[paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/c8ffe9a587b126f152ed3d89a146b445-Paper-round1.pdf) [[dataset]](https://physionet.org/content/radgraph/1.0.0/)
+
 ## Toolkits
 [AAAI 2019] CheXpert [[paper]](https://arxiv.org/pdf/1901.07031.pdf) [[code]](https://github.com/stanfordmlgroup/chexpert-labeler)
 
