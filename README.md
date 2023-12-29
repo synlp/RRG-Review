@@ -11,7 +11,7 @@ If you have any suggestions about papers, code implementations, and other resour
 
 Papers involving **large language models (LLMs)** are in **boldface**.
 
-## Citation
+# Citation
 
 If your research is related to our work, please cite the following paper:
 
@@ -25,23 +25,35 @@ If your research is related to our work, please cite the following paper:
       primaryClass={cs.CV}
 }
 ```
-## To-Do Lists
-- [ ] Add EMNLP 2023 papers.
+# News 🔥
+[Dec. 9th] Our paper titled "Bootstrapping Large Language Models for Radiology Report Generation" is accepted by AAAI 2024! Refer to our [GitHub repo](https://github.com/synlp/R2-LLM) for more details!
+
+# To-Do Lists
+- [x] Add EMNLP 2023 papers.
 - [ ] Add AAAI 2024 papers.
 
-## Table of Contents
+# Table of Contents
 
-- [Papers](#papers)
-  - [2023](#2023)
-  - [2022](#2022)
-  - [2021](#2021)
-  - [2020](#2020)
-  - [2019](#2019)
-  - [2018](#2018)
-- [Datasets](#datasets)
-- [Metrics](#metrics)
+- [Citation](#citation)
+- [News 🔥](#news-)
+- [To-Do Lists](#to-do-lists)
+- [Table of Contents](#table-of-contents)
+  - [Papers](#papers)
+    - [2024](#2024)
+    - [2023](#2023)
+    - [2022](#2022)
+    - [2021](#2021)
+    - [2020](#2020)
+    - [2019](#2019)
+    - [2018](#2018)
+  - [Datasets](#datasets)
+  - [Toolkits](#toolkits)
 
 ## Papers
+### 2024
+[AAAI] Bootstrapping Large Language Models for Radiology Report Generation [paper] [[code]](https://github.com/synlp/R2-LLM)
+
+
 ### 2023
 
 [arXiv 2023] Cross-Modal Causal Intervention for Medical Report Generation [[paper]](https://arxiv.org/pdf/2303.09117.pdf) [[code]](https://github.com/WissingChen/VLCI)
@@ -71,6 +83,10 @@ If your research is related to our work, please cite the following paper:
 [EACL 2023] KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation [[paper]](https://aclanthology.org/2023.eacl-main.246/) [[code]](KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation)
 
 **[EMNLP 2023] Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting** [[paper]](https://arxiv.org/pdf/2310.17811v2.pdf) 
+
+[EMNLP 2023] PhenotypeCLIP: Phenotype-based Contrastive Learning for Medical Imaging Report Generation [[paper]](https://aclanthology.org/2023.emnlp-main.989.pdf)
+
+[[EMNLP 2023]] RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning [[paper]](https://aclanthology.org/2023.findings-emnlp.140.pdf) [[code]](https://github.com/wjhou/recap)
 
 [ICASSP 2023] MvCo-DoT: Multi-View Contrastive Domain Transfer Network for Medical Report Generation [[paper]](https://arxiv.org/pdf/2304.07465.pdf)
 
