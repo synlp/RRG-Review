@@ -94,7 +94,7 @@ If your research is related to our work, please cite the following paper:
 
 [CVPR 2023] METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.pdf)
 
-[EACL 2023] KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation [[paper]](https://aclanthology.org/2023.eacl-main.246/) [[code]](KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation)
+[EACL 2023] KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation [[paper]](https://aclanthology.org/2023.eacl-main.246/) [[code]](https://github.com/yeliu918/KG-BART)
 
 **[EMNLP 2023] Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting** [[paper]](https://arxiv.org/pdf/2310.17811v2.pdf) 
 
