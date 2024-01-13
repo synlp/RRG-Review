@@ -104,6 +104,8 @@ If your research is related to our work, please cite the following paper:
 
 [ICASSP 2023] MvCo-DoT: Multi-View Contrastive Domain Transfer Network for Medical Report Generation [[paper]](https://arxiv.org/pdf/2304.07465.pdf)
 
+[ICCV 2023] Unify, Align and Refine: Multi-Level Semantic Alignment for Radiology Report Generation [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Unify_Align_and_Refine_Multi-Level_Semantic_Alignment_for_Radiology_Report_ICCV_2023_paper.pdf)
+
 [ICIP 2023] Self Adaptive Global-Local Feature Enhancement for Radiology Report Generation [[paper]](https://arxiv.org/pdf/2211.11380.pdf)
 
 [TMI 2023] Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation [[paper]](https://ieeexplore.ieee.org/document/10045710/)
