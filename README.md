@@ -68,6 +68,8 @@ If your research is related to our work, please cite the following paper:
 
 **[arXiv 2023] Pragmatic Radiology Report Generation** [[paper]](https://arxiv.org/pdf/2311.17154.pdf)
 
+**[arXiv 2023] RadLLM: A Comprehensive Healthcare Benchmark of Large Language Models for Radiology** [[paper]](https://arxiv.org/pdf/2307.13693.pdf) [[project]](https://mohsenarjmandi.com/projects/)
+
 **[arXiv 2023] RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance** [[paper]](https://arxiv.org/pdf/2311.18681.pdf) [[code]](https://github.com/ChantalMP/RaDialog)
 
 **[arXiv 2023] Towards Generalist Biomedical AI** [[paper]](https://arxiv.org/abs/2307.14334) [[reproduced code]](https://github.com/kyegomez/Med-PaLM)
