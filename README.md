@@ -58,9 +58,14 @@ If your research is related to our work, please cite the following paper:
 
 **[TMM 2024] From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation** [[paper]](https://ieeexplore.ieee.org/document/10356722) (**Early Access**)
 
+[**TMI 2024] SGT++: Improved Scene Graph-guided Transformer for Surgical Report Generation** [[pdf]](https://ieeexplore.ieee.org/document/10330637/) (Early Access)
+
 [WACV 2024] Complex Organ Mask Guided Radiology Report Generation [[paper]](https://arxiv.org/pdf/2311.02329.pdf) [[code]](https://github.com/GaryGuTC/COMG_model)
 
 ### 2023
+
+[**MICCAI 2023] SGT: Scene Graph-Guided Transformer for Surgical Report Generation**
+ [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_48) [[code]](https://github.com/ccccchenllll/SGT_master)
 
 **[arXiv 2023] LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation** [[paper]](https://arxiv.org/abs/2305.11490) [[code]](https://github.com/hyn2028/llm-cxr) [[code]](https://github.com/hyn2028/llm-cxr)
 
