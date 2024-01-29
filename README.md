@@ -56,6 +56,8 @@ If your research is related to our work, please cite the following paper:
 ### 2024
 **[AAAI 2024] Bootstrapping Large Language Models for Radiology Report Generation** [paper] [[code]](https://github.com/synlp/R2-LLM)
 
+**[TMM 2024] From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation** [[paper]](https://ieeexplore.ieee.org/document/10356722) (**Early Access**)
+
 [WACV 2024] Complex Organ Mask Guided Radiology Report Generation [[paper]](https://arxiv.org/pdf/2311.02329.pdf) [[code]](https://github.com/GaryGuTC/COMG_model)
 
 ### 2023
