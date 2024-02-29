@@ -58,6 +58,8 @@ If your research is related to our work, please cite the following paper:
 
 [WACV 2024] Complex Organ Mask Guided Radiology Report Generation [[paper]](https://arxiv.org/pdf/2311.02329.pdf) [[code]](https://github.com/GaryGuTC/COMG_model)
 
+[arXiv 2024] ICON: Improving Inter-Report Consistency for Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
+
 ### 2023
 
 **[arXiv 2023] LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation** [[paper]](https://arxiv.org/abs/2305.11490) [[code]](https://github.com/hyn2028/llm-cxr) [[code]](https://github.com/hyn2028/llm-cxr)
