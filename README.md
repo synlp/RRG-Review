@@ -19,7 +19,6 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 # Table of Contents
 
-- [Citation](#citation)
 - [News 🔥](#news-)
 - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
