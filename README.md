@@ -29,11 +29,6 @@ If your research is related to our work, please cite the following paper:
 
 [2024 Jan. 9th] We have updated all accepted papers by EMNLP 2023.
 
----
-[Dec. 9th] Our paper titled "Bootstrapping Large Language Models for Radiology Report Generation" is accepted by AAAI 2024! Refer to our [GitHub repo](https://github.com/synlp/R2-LLM) for more details!
-
-# To-Do Lists
-- [ ] Add AAAI 2024 papers.
 
 # Table of Contents
 
@@ -54,7 +49,7 @@ If your research is related to our work, please cite the following paper:
 
 ## Papers
 ### 2024
-**[AAAI 2024] Bootstrapping Large Language Models for Radiology Report Generation** [paper] [[code]](https://github.com/synlp/R2-LLM)
+[AAAI 2024] Bootstrapping Large Language Models for Radiology Report Generation [paper] [[code]](https://github.com/synlp/R2-LLM)
 
 [WACV 2024] Complex Organ Mask Guided Radiology Report Generation [[paper]](https://arxiv.org/pdf/2311.02329.pdf) [[code]](https://github.com/GaryGuTC/COMG_model)
 
@@ -62,21 +57,21 @@ If your research is related to our work, please cite the following paper:
 
 ### 2023
 
-**[arXiv 2023] LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation** [[paper]](https://arxiv.org/abs/2305.11490) [[code]](https://github.com/hyn2028/llm-cxr) [[code]](https://github.com/hyn2028/llm-cxr)
+[arXiv 2023] LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation [[paper]](https://arxiv.org/abs/2305.11490) [[code]](https://github.com/hyn2028/llm-cxr) [[code]](https://github.com/hyn2028/llm-cxr)
 
-**[arXiv 2023] MAIRA-1: A Specialised Large Multimodal Model for Radiology Report Generation** [[paper]](https://arxiv.org/abs/2311.13668) [[project]](https://www.microsoft.com/en-us/research/project/project-maira/)
+[arXiv 2023] MAIRA-1: A Specialised Large Multimodal Model for Radiology Report Generation [[paper]](https://arxiv.org/abs/2311.13668) [[project]](https://www.microsoft.com/en-us/research/project/project-maira/)
 
-**[arXiv 2023] MedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model** [[paper]](https://arxiv.org/abs/2312.02233)
+[arXiv 2023] MedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model [[paper]](https://arxiv.org/abs/2312.02233)
 
-**[arXiv 2023] Pragmatic Radiology Report Generation** [[paper]](https://arxiv.org/pdf/2311.17154.pdf)
+[arXiv 2023] Pragmatic Radiology Report Generation [[paper]](https://arxiv.org/pdf/2311.17154.pdf)
 
-**[arXiv 2023] RadLLM: A Comprehensive Healthcare Benchmark of Large Language Models for Radiology** [[paper]](https://arxiv.org/pdf/2307.13693.pdf) [[project]](https://mohsenarjmandi.com/projects/)
+[arXiv 2023] RadLLM: A Comprehensive Healthcare Benchmark of Large Language Models for Radiology [[paper]](https://arxiv.org/pdf/2307.13693.pdf) [[project]](https://mohsenarjmandi.com/projects/)
 
-**[arXiv 2023] RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance** [[paper]](https://arxiv.org/pdf/2311.18681.pdf) [[code]](https://github.com/ChantalMP/RaDialog)
+[arXiv 2023] RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance [[paper]](https://arxiv.org/pdf/2311.18681.pdf) [[code]](https://github.com/ChantalMP/RaDialog)
 
-**[arXiv 2023] Towards Generalist Biomedical AI** [[paper]](https://arxiv.org/abs/2307.14334) [[reproduced code]](https://github.com/kyegomez/Med-PaLM)
+[arXiv 2023] Towards Generalist Biomedical AI [[paper]](https://arxiv.org/abs/2307.14334) [[reproduced code]](https://github.com/kyegomez/Med-PaLM)
 
-**[arXiv 2023] Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data** [[paper]](https://arxiv.org/abs/2308.02463) [[project]](https://chaoyi-wu.github.io/RadFM/) [[code]](https://github.com/chaoyi-wu/RadFM?tab=readme-ov-file)
+[arXiv 2023] Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data [[paper]](https://arxiv.org/abs/2308.02463) [[project]](https://chaoyi-wu.github.io/RadFM/) [[code]](https://github.com/chaoyi-wu/RadFM?tab=readme-ov-file)
 
 [arXiv 2023] Cross-Modal Causal Intervention for Medical Report Generation [[paper]](https://arxiv.org/pdf/2303.09117.pdf) [[code]](https://github.com/WissingChen/VLCI)
 
@@ -100,7 +95,7 @@ If your research is related to our work, please cite the following paper:
 
 [EACL 2023] KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation [[paper]](https://aclanthology.org/2023.eacl-main.246/) [[code]](https://github.com/yeliu918/KG-BART)
 
-**[EMNLP 2023] Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting** [[paper]](https://arxiv.org/pdf/2310.17811v2.pdf) 
+[EMNLP 2023] Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting [[paper]](https://arxiv.org/pdf/2310.17811v2.pdf) 
 
 [EMNLP 2023] PhenotypeCLIP: Phenotype-based Contrastive Learning for Medical Imaging Report Generation [[paper]](https://aclanthology.org/2023.emnlp-main.989.pdf)
 
@@ -116,7 +111,7 @@ If your research is related to our work, please cite the following paper:
 
 [**TMI 2023] SGT++: Improved Scene Graph-guided Transformer for Surgical Report Generation** [[paper]](https://ieeexplore.ieee.org/document/10330637/)
 
-**[TMM 2024] From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation** [[paper]](https://ieeexplore.ieee.org/document/10356722)
+[TMM 2024] From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[paper]](https://ieeexplore.ieee.org/document/10356722)
 
 [TMM 2023] Joint Embedding of Deep Visual and Semantic Features for Medical Image Report Generation [[paper]](https://ieeexplore.ieee.org/document/9606584)
 
