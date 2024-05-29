@@ -11,20 +11,7 @@ If you have any suggestions about papers, code implementations, and other resour
 
 Papers involving **large language models (LLMs)** are in **boldface**.
 
-# Citation
 
-If your research is related to our work, please cite the following paper:
-
-```markdown
-@misc{liu2023systematic,
-      title={A Systematic Review of Deep Learning-based Research on Radiology Report Generation}, 
-      author={Chang Liu and Yuanhe Tian and Yan Song},
-      year={2023},
-      eprint={2311.14199},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
 # News 🔥
 
 [2024 Jan. 9th] We have updated all accepted papers by EMNLP 2023.
@@ -34,7 +21,6 @@ If your research is related to our work, please cite the following paper:
 
 - [Citation](#citation)
 - [News 🔥](#news-)
-- [To-Do Lists](#to-do-lists)
 - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
     - [2024](#2024)
