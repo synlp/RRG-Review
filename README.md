@@ -34,7 +34,7 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 ## Papers
 ### 2024
-[AAAI 2024] Bootstrapping Large Language Models for Radiology Report Generation [paper] [[code]](https://github.com/synlp/R2-LLM)
+[AAAI 2024] Bootstrapping Large Language Models for Radiology Report Generation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29826) [[code]](https://github.com/synlp/R2-LLM)
 
 [WACV 2024] Complex Organ Mask Guided Radiology Report Generation [[paper]](https://arxiv.org/pdf/2311.02329.pdf) [[code]](https://github.com/GaryGuTC/COMG_model)
 
