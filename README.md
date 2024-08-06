@@ -40,6 +40,22 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [arXiv 2024] ICON: Improving Inter-Report Consistency for Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
 
+[Neurocomputing 2024] Improving Radiology Report Generation with Multi-grained Abnormality Prediction [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224008932)
+
+[Neurocomputing 2024] Trust It or Not: Confidence-guided Automatic Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001450)
+
+[TMI 2024] An Organ-aware Diagnosis Framework for Radiology Report Generation [[paper]](https://ieeexplore.ieee.org/abstract/document/10579857)
+
+[TMI 2024] Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/10458706)
+
+[TMI 2024] PhraseAug: An Augmented Medical Report Generation Model with Phrasebook [[paper]](https://ieeexplore.ieee.org/abstract/document/10560051)
+
+[CVPR 2024] Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf)
+
+[BSPC 2024] An Efficient but Effective Writer: Diffusion-based Semi-autoregressive Transformer for Automated Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010844)
+
+[BSPC 2024] Unsupervised Disease Tags for Automatic Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809423011758)
+
 ### 2023
 
 [arXiv 2023] LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation [[paper]](https://arxiv.org/abs/2305.11490) [[code]](https://github.com/hyn2028/llm-cxr) [[code]](https://github.com/hyn2028/llm-cxr)
@@ -64,11 +80,17 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [arXiv 2023] Radiology Report Generation Using Transformers Conditioned with Non-imaging Data [[paper]](https://arxiv.org/pdf/2311.11097.pdf)
 
+[arXiv 2023] Can Prompt Learning Benefit Radiology Report Generation? [[paper]](https://arxiv.org/pdf/2308.16269)
+
 [ACL 2023] ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning [[paper]](https://aclanthology.org/2023.acl-long.451/) [[code]](https://github.com/wjhou/ORGan)
 
 [ACL 2023] Replace and Report: NLP Assisted Radiology Report Generation [[paper]](https://aclanthology.org/2023.findings-acl.683.pdf)
 
 [AMI 2023] Improving Chest X-ray Report Generation by Leveraging Warm Starting [[paper]](https://arxiv.org/pdf/2201.09405.pdf) [[code]](https://github.com/aehrc/cvt2distilgpt2)
+
+[CBM 2023] Visual Prior-based Cross-modal Alignment Network for Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0010482523009873)
+
+[CBM 2023] Visual Prior-based Cross-modal Alignment Network for Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0010482523009873)
 
 [CVPR 2023] Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.pdf) [[code]](https://github.com/mlii0117/DCL)
 
@@ -118,7 +140,11 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [ACL 2022] Reinforced Cross-modal Alignment for Radiology Report Generation [[paper]](https://aclanthology.org/2022.findings-acl.38/) [[code]](https://github.com/synlp/R2GenRL)
 
+[BSPC 2022] Clinically Coherent Radiology Report Generation with Imbalanced Chest X-rays [[paper]](https://ieeexplore.ieee.org/abstract/document/9994871)
+
 [BMVC 2022] On the Importance of Image Encoding in Automated Chest X-Ray Report Generation [[paper]](https://arxiv.org/ftp/arxiv/papers/2211/2211.13465.pdf) [[code]](https://github.com/mudabek/encoding-cxr-report-gen)
+
+[COLING] Cross-modal Contrastive Attention Model for Medical Report Generation [[paper]](https://aclanthology.org/2022.coling-1.210.pdf)
 
 [CVPR 2022] Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation [[paper]](https://ieeexplore.ieee.org/document/9879084)
 
@@ -139,6 +165,8 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 [MICCAI 2022] A Self-guided Framework for Radiology Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_56) [[code]](https://github.com/LijunRio/A-Self-Guided-Framework)
 
 [MICCAI 2022] A Medical Semantic-Assisted Transformer for Radiographic Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_63)
+
+[MICCAI 2022] An Inclusive Task-Aware Framework for Radiology Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_54)
 
 [MICCAI 2022] Lesion Guided Explainable Few Weak-Shot Medical Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_59)
 
@@ -170,6 +198,8 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 [MICCAI 2021] RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting [[paper]](https://miccai2021.org/openaccess/paperlinks/2021/09/01/390-Paper1026.html) [[code]](https://github.com/farrell236/RATCHET)
 
 [MICCAI 2021] Trust It or Not: Confidence-Guided Automatic Radiology Report Generation [[paper]](https://arxiv.org/pdf/2106.10887.pdf)
+
+[MICCAI 2021] AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_7)
 
 [NeurIPS 2021] Auto-encoding Knowledge Graph for Unsupervised Medical Report Generation [[paper]](https://proceedings.neurips.cc/paper/2021/file/876e1c59023b1a0e95808168e1a8ff89-Paper.pdf)
 
@@ -212,6 +242,10 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 [Scientific Data] MIMIC-CXR, A De-identified Publicly Available Database of Chest Radiographs with Free-text Reports [[paper]](https://www.nature.com/articles/s41597-019-0322-0) [[dataset]](https://physionet.org/content/mimic-cxr/1.0.0/)
 
 [arXiv] MIMIC-CXR-JPG, A Large Publicly Available Database of Labeled Chest Radiographs [[paper]](https://arxiv.org/abs/1901.07042) [[dataset]](https://physionet.org/content/mimic-cxr/2.0.0/)
+
+[arXiv] Detailed Annotations of Chest X-Rays via CT Projection for Report Understanding [[paper]](https://arxiv.org/pdf/2210.03416) [[dataset]](https://github.com/dataset-ninja/paxray)
+
+[CVPR] ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf) [[dataset]](https://github.com/YeongHyeon/Download-ChestX-ray8)
 
 [NeurIPS 2021 Datasets & Benchmark] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[paper]](https://openreview.net/pdf?id=FgYTwJbjbf) [[dataset]](https://physionet.org/content/ffa-ir-medical-report/1.0.0/) [[GitHub]](https://github.com/mlii0117/FFA-IR)
 
