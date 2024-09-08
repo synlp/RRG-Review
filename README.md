@@ -195,15 +195,17 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [ICCV 2021] Visual-Textual Attentive Semantic Consistency for Medical Report Generation [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.pdf)
 
-[NAACL 2021] Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation [[paper]](https://aclanthology.org/2021.naacl-main.416.pdf) [[code]](https://github.com/ysmiura/ifcc)
-
 [MICCAI 2021] RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting [[paper]](https://miccai2021.org/openaccess/paperlinks/2021/09/01/390-Paper1026.html) [[code]](https://github.com/farrell236/RATCHET)
 
 [MICCAI 2021] Trust It or Not: Confidence-Guided Automatic Radiology Report Generation [[paper]](https://arxiv.org/pdf/2106.10887.pdf)
 
 [MICCAI 2021] AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_7)
 
+[NAACL 2021] Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation [[paper]](https://aclanthology.org/2021.naacl-main.416.pdf) [[code]](https://github.com/ysmiura/ifcc)
+
 [NeurIPS 2021] Auto-encoding Knowledge Graph for Unsupervised Medical Report Generation [[paper]](https://proceedings.neurips.cc/paper/2021/file/876e1c59023b1a0e95808168e1a8ff89-Paper.pdf)
+
+[PMLR 2021] Retrieval-Based Chest X-Ray Report Generation Using a Pre-trained Contrastive Language-Image Model [[paper]](https://proceedings.mlr.press/v158/endo21a.html)
 
 
 ### 2020
