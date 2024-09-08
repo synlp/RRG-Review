@@ -34,11 +34,17 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 ## Papers
 ### 2024
+[arXiv 2024] ICON: Improving Inter-Report Consistency for Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
+
 [AAAI 2024] Bootstrapping Large Language Models for Radiology Report Generation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29826) [[code]](https://github.com/synlp/R2-LLM)
 
-[WACV 2024] Complex Organ Mask Guided Radiology Report Generation [[paper]](https://arxiv.org/pdf/2311.02329.pdf) [[code]](https://github.com/GaryGuTC/COMG_model)
+[BSPC 2024] An Efficient but Effective Writer: Diffusion-based Semi-autoregressive Transformer for Automated Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010844)
 
-[arXiv 2024] ICON: Improving Inter-Report Consistency for Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
+[BSPC 2024] Unsupervised Disease Tags for Automatic Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809423011758)
+
+[CVPR 2024] Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf)
+
+[ICASSP 2024] Improving Radiology Report Generation with D^2-Net: When Diffusion Meets Discriminator [[paper](https://ieeexplore.ieee.org/abstract/document/10448326)] [[code](https://github.com/Yuda-Jin/D-2-Net)]
 
 [Neurocomputing 2024] Improving Radiology Report Generation with Multi-grained Abnormality Prediction [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224008932)
 
@@ -50,11 +56,7 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [TMI 2024] PhraseAug: An Augmented Medical Report Generation Model with Phrasebook [[paper]](https://ieeexplore.ieee.org/abstract/document/10560051)
 
-[CVPR 2024] Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf)
-
-[BSPC 2024] An Efficient but Effective Writer: Diffusion-based Semi-autoregressive Transformer for Automated Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010844)
-
-[BSPC 2024] Unsupervised Disease Tags for Automatic Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809423011758)
+[WACV 2024] Complex Organ Mask Guided Radiology Report Generation [[paper]](https://arxiv.org/pdf/2311.02329.pdf) [[code]](https://github.com/GaryGuTC/COMG_model)
 
 ### 2023
 
