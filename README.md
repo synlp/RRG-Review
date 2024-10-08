@@ -36,7 +36,11 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 ### 2024
 [arXiv 2024] ICON: Improving Inter-Report Consistency for Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
 
+[ACL 2024] Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation [[paper]](https://aclanthology.org/2024.acl-long.514.pdf)
+
 [AAAI 2024] Bootstrapping Large Language Models for Radiology Report Generation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29826) [[code]](https://github.com/synlp/R2-LLM)
+
+[AAAI 2024] PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/28038/28087)
 
 [BSPC 2024] An Efficient but Effective Writer: Diffusion-based Semi-autoregressive Transformer for Automated Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010844)
 
@@ -55,6 +59,8 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 [TMI 2024] Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/10458706)
 
 [TMI 2024] PhraseAug: An Augmented Medical Report Generation Model with Phrasebook [[paper]](https://ieeexplore.ieee.org/abstract/document/10560051)
+
+[TMM 2024] From Observation to Concept: A Flexible Multi-View Paradigm for Medical Report Generation [[paper]](https://ieeexplore.ieee.org/abstract/document/10356722)
 
 [WACV 2024] Complex Organ Mask Guided Radiology Report Generation [[paper]](https://arxiv.org/pdf/2311.02329.pdf) [[code]](https://github.com/GaryGuTC/COMG_model)
 
