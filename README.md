@@ -34,6 +34,19 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 ## Papers
 ### 2024
+
+[arXiv 2024] ReXplain: Translating Radiology into Patient-Friendly Video Reports [[paper](https://arxiv.org/pdf/2410.00441?)]
+
+[arXiv 2024] ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation [[paper](https://arxiv.org/pdf/2410.07908)]
+
+[arXiv 2024] Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2404.10237v2)]
+
+[nature biomedical engineering 2024] A vision–language foundation model for the generation of realistic chest X-ray images [[paper](https://www.nature.com/articles/s41551-024-01246-y#peer-review)] [[code](https://github.com/StanfordMIMI/RoentGen)]
+
+[arXiv 2024] M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation [[paper](https://arxiv.org/pdf/2408.16213)]
+
+[arXiv 2024] MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation [[paper](https://arxiv.org/pdf/2410.02458)]
+
 [arXiv 2024] ICON: Improving Inter-Report Consistency for Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
 
 [ACL 2024] Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation [[paper]](https://aclanthology.org/2024.acl-long.514.pdf)
