@@ -43,7 +43,7 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [arXiv 2024] MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation [[paper](https://arxiv.org/pdf/2410.02458)]
 
-[arXiv 2024] Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2404.10237v2)]
+[arXiv 2024] Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2404.10237v2)] [[code](https://github.com/jiangsongtao/Med-MoE)]
 
 [arXiv 2024] CanvOI, an Oncology Intelligence Foundation Model: Scaling FLOPS Differently [[paper](https://arxiv.org/pdf/2409.02885)]
 
