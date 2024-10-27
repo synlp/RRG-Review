@@ -35,6 +35,8 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 ## Papers
 ### 2024
 
+[TMI 2024] Attribute Prototype-guided Iterative Scene Graph for Explainable Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10587279)] [[code](https://github.com/giantke/AP-ISG)]
+
 [TMI 2024] An Organ-aware Diagnosis Framework for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10579857)]  
 
 [arXiv 2024] ReXplain: Translating Radiology into Patient-Friendly Video Reports [[paper](https://arxiv.org/pdf/2410.00441?)]
