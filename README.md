@@ -57,7 +57,9 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [arXiv 2024] ICON: Improving Inter-Report Consistency for Radiology Report Generation via Lesion-aware Mix-up Augmentation [[paper](https://arxiv.org/abs/2402.12844)] [[code](https://github.com/wjhou/ICon)]
 
-[ACL 2024] Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation [[paper]](https://aclanthology.org/2024.acl-long.514.pdf)
+[ACL 2024] Two-Pronged Human Evaluation of ChatGPT Self-Correction in Radiology Report Simplification [[paper](https://aclanthology.org/2024.findings-acl.279.pdf)]
+
+[ACL 2024] Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation [[paper]](https://aclanthology.org/2024.acl-long.514.pdf) [[code](https://github.com/CUHK-AIM-Group/AdaMatch-Cyclic)]
 
 [AAAI 2024] Bootstrapping Large Language Models for Radiology Report Generation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29826) [[code]](https://github.com/synlp/R2-LLM)
 
