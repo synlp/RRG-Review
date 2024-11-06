@@ -270,7 +270,7 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 ## Datasets
 
-[J. Am. Medical Informatics Assoc.] Preparing A Collection of Radiology Examinations for Distribution and Retrieval [[paper]](https://pubmed.ncbi.nlm.nih.gov/26133894/) [[dataset]](https://openi.nlm.nih.gov/faq)
+[J. Am. Medical Informatics Assoc.] Preparing A Collection of Radiology Examinations for Distribution and Retrieval [[paper]](https://pubmed.ncbi.nlm.nih.gov/26133894/) [[dataset (the second QA)]](https://openi.nlm.nih.gov/faq)
 
 [Scientific Data] MIMIC-CXR, A De-identified Publicly Available Database of Chest Radiographs with Free-text Reports [[paper]](https://www.nature.com/articles/s41597-019-0322-0) [[dataset]](https://physionet.org/content/mimic-cxr/1.0.0/)
 
@@ -278,7 +278,9 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [arXiv] Detailed Annotations of Chest X-Rays via CT Projection for Report Understanding [[paper]](https://arxiv.org/pdf/2210.03416) [[dataset]](https://github.com/dataset-ninja/paxray)
 
-[CVPR] ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf) [[dataset]](https://github.com/YeongHyeon/Download-ChestX-ray8)
+[arXiv] VinDr-CXR: An open dataset of chest X-rays with radiologist’s annotations [[paper]](https://arxiv.org/abs/2012.15029) [[dataset]](https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/rules)
+
+[CVPR] ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf) [[dataset]](https://github.com/YeongHyeon/Download-ChestX-ray8) or [[dataset]](https://www.kaggle.com/datasets/nih-chest-xrays/data)
 
 [NeurIPS 2021 Datasets & Benchmark] FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark [[paper]](https://openreview.net/pdf?id=FgYTwJbjbf) [[dataset]](https://physionet.org/content/ffa-ir-medical-report/1.0.0/) [[GitHub]](https://github.com/mlii0117/FFA-IR)
 
