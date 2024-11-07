@@ -41,6 +41,8 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [TMI 2024] An Organ-aware Diagnosis Framework for Radiology Report Generation [[paper](https://ieeexplore.ieee.org/document/10579857)]  
 
+[Academic Radiology 2024] Practical Evaluation of ChatGPT Performance for Radiology Report Generation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1076633224004549)]  
+
 [arXiv 2024] ReXplain: Translating Radiology into Patient-Friendly Video Reports [[paper](https://arxiv.org/pdf/2410.00441?)]
 
 [arXiv 2024] ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation [[paper](https://arxiv.org/pdf/2410.07908)]
