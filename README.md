@@ -123,8 +123,6 @@ Papers involving **large language models (LLMs)** are in **boldface**.
 
 [CBM 2023] Visual Prior-based Cross-modal Alignment Network for Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0010482523009873)
 
-[CBM 2023] Visual Prior-based Cross-modal Alignment Network for Radiology Report Generation [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0010482523009873)
-
 [CVPR 2023] Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.pdf) [[code]](https://github.com/mlii0117/DCL)
 
 [CVPR 2023] Interactive and Explainable Region-guided Radiology Report Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tanida_Interactive_and_Explainable_Region-Guided_Radiology_Report_Generation_CVPR_2023_paper.pdf) [[code]](https://github.com/ttanida/rgrg)
